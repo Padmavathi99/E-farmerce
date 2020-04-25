@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127867167331",
+    "firebase_url": "https://farmer-53da5.firebaseio.com",
+    "project_id": "farmer-53da5",
+    "storage_bucket": "farmer-53da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127867167331:android:b94c42284d20fcf4878e56",
+        "android_client_info": {
+          "package_name": "com.example.mycart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127867167331-t3ojhcmjisn26eqrvftagehbkpe8mumg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycart",
+            "certificate_hash": "910053e909669d760ea6203c793753e5581981c4"
+          }
+        },
+        {
+          "client_id": "127867167331-7hij0fq36m9861gvkjdgpau5c9cd863f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv7nd6rD4IcVs2QvQ9bMh-A_CDBdZmksc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127867167331-7hij0fq36m9861gvkjdgpau5c9cd863f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
