@@ -8,13 +8,13 @@ The E-farmerce app provides the following services :
 
 -The farmers can shop for farming equipment / products .
 
-##Technology stack used:
+## Technology stack used:
 
 -Android Studio for developing the app
 
 -Firebase for storing and retrieving data
 
-<img src="https://github.com/Padmavathi99/E-farmerce/blob/master/ss1.jpeg" width="400" height="400">
+<img src="https://github.com/Padmavathi99/E-farmerce/blob/master/ss1.jpeg" width="250" height="550">
 
 
 
