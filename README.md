@@ -14,4 +14,4 @@ The E-farmerce app provides the following services :
 
 -Firebase for storing and retrieving data
 
-![Login Page](https://github.com/Padmavathi99/E-farmerce/blob/master/ss1.jpeg)
+![Login Page](https://github.com/Padmavathi99/E-farmerce/blob/master/ss1.jpeg=250x250)
