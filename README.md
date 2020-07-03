@@ -1,20 +1,8 @@
-### E-farmerce
+# E-farmerce
+This application provides assistance to farmers to purchase agricultural requirements. Farmers can also seek help from crop specialists or plant pathologists over voice call or video call.
+# Steps to run the app
+1. Clone the repository
+2. Replace the google-services.json file with your own file.
+3. Run the app.
 
-An all in one app for farmers
-
-The E-farmerce app provides the following services :
-
-- The farmers can contact the crop specialists or plant pathologists any time through an audio or video call
-
--The farmers can shop for farming equipment / products .
-
-## Technology stack used:
-
--Android Studio for developing the app
-
--Firebase for storing and retrieving data
-
-<img src="https://github.com/Padmavathi99/E-farmerce/blob/master/ss1.jpeg" width="250" height="550">
-
-
-
+![](E-Farmerce.gif)
